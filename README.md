@@ -21,13 +21,12 @@ La siguiente tabla muestra la correspondencia de actividades y los contenidos se
 |AF2|Formativa|Semana 3|Programación orientada a objetos II |
 |AF3|Formativa|Semana 5|Excepciones|
 |AS2|Sumativa|Semana 6|Iterables|
-|AS3|Sumativa|Semana 7|_Threading_|
-|AF4|Formativa|Semana 8|Interfaces gráficas I|
-|AF5|Formativa|Semana 9|Interfaces gráficas II|
-|AP1|Propuesta Remota|Semana 10|Estructuras nodales parte 1|
-|AF6|Formativa|Semana 11|Estructuras nodales parte 2|
+|-|-|Semana 7|Semana de Ajuste|
+|AS3|Sumativa|Semana 8|_Threading_|
+|AF4|Formativa|Semana 9|Interfaces gráficas I|
+|AF5|Formativa|Semana 11|Interfaces gráficas II|
 |AS4|Sumativa|Semana 12|I/O y Serialización|
-|AF7|Formativa|Semana 13|_Networking_|
+|AF6|Formativa|Semana 13|_Networking_|
 
 
 Si tienes dudas sobre el contenido puedes abrir una issue [aquí](https://github.com/IIC2233/Syllabus/issues).
