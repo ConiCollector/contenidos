@@ -6,7 +6,7 @@ Los contenidos se pondrán en práctica mediante actividades (formativas o sumat
 
 La semana 0 corresponde a la primera semana de clases, en la cual no habrá una actividad de contenidos, sino que una actividad introductoria al formato del curso. La carpeta `semana 0` de todas formas contiene material de estudio que se asumirá conocido y se aplicará durante todo el curso, y específicamente se evaluará en la primera tarea del curso (`T0`), en lugar de en una actividad.
 
-La numeración de semanas que siguen, respeta el orden temporal del calendario académico, por lo que las semanas 4 y 10 son saltadas debido a feriados nacionales. Además, a partir de la semana 7 se realizaron cambios para dar espacio a la Semana de Ajuste.
+La numeración de semanas que siguen, respeta el orden temporal del calendario académico, por lo que las semanas 4 y 10 son saltadas debido a feriados nacionales. Además, a partir de la semana 7 se realizaron cambios para dar espacio a la Semana de Ajuste. Finalmente, la semana 11 no tendrá contenidos debido a que coincide con la Semana de Receso.
 
 > **IMPORTANTE:** Debido a la contingencia, la pandemia del COVID-19, estos contenidos y su semana correspondiente se encuentran en constante revisión, por lo que les pedimos estar atentos y atentas a los medios de comunicación oficiales del curso en caso de cambios.
 
@@ -22,9 +22,10 @@ La siguiente tabla muestra la correspondencia de actividades y los contenidos se
 | -         | -         | Semana 7            | Semana de Ajuste                    |
 | AS3       | Sumativa  | Semana 8            | _Threading_                         |
 | AF4       | Formativa | Semana 9            | Interfaces gráficas I               |
-| AF5       | Formativa | Semana 11           | Interfaces gráficas II              |
-| AS4       | Sumativa  | Semana 12           | I/O y Serialización                 |
-| AF6       | Formativa | Semana 13           | _Networking_                        |
+| -         | -         | Semana 11           | Semana de Receso                    |
+| AF5       | Formativa | Semana 12           | Interfaces gráficas II              |
+| AS4       | Sumativa  | Semana 13           | I/O y Serialización                 |
+| AF6       | Formativa | Semana 14           | _Networking_                        |
 
 
 Si tienes dudas sobre el contenido puedes abrir una issue [aquí](https://github.com/IIC2233/Syllabus/issues).
